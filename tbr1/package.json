@@ -2,7 +2,7 @@
   "name": "tbr1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github-tannerpace.github.io/shiny-system/",
+  "homepage": "https://github-tannerpace.github.io/airautonomo/portfolio/",
   "dependencies": {
     "-": "^0.0.1",
     "@emotion/react": "^11.5.0",
