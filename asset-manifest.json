@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/shiny-system/static/css/main.59bffde5.chunk.css",
-    "main.js": "/shiny-system/static/js/main.d3607626.chunk.js",
-    "main.js.map": "/shiny-system/static/js/main.d3607626.chunk.js.map",
-    "runtime-main.js": "/shiny-system/static/js/runtime-main.58f75e3e.js",
-    "runtime-main.js.map": "/shiny-system/static/js/runtime-main.58f75e3e.js.map",
-    "static/js/2.5286a06f.chunk.js": "/shiny-system/static/js/2.5286a06f.chunk.js",
-    "static/js/2.5286a06f.chunk.js.map": "/shiny-system/static/js/2.5286a06f.chunk.js.map",
-    "index.html": "/shiny-system/index.html",
-    "static/css/main.59bffde5.chunk.css.map": "/shiny-system/static/css/main.59bffde5.chunk.css.map",
-    "static/js/2.5286a06f.chunk.js.LICENSE.txt": "/shiny-system/static/js/2.5286a06f.chunk.js.LICENSE.txt",
-    "static/media/1.179a28a1.svg": "/shiny-system/static/media/1.179a28a1.svg",
-    "static/media/2.ea2e3610.svg": "/shiny-system/static/media/2.ea2e3610.svg",
-    "static/media/App.css": "/shiny-system/static/media/photo__of__me.6707f728.png"
+    "main.css": "/airautonomo/portfolio/static/css/main.b3cf4e9c.chunk.css",
+    "main.js": "/airautonomo/portfolio/static/js/main.f2b9a3f7.chunk.js",
+    "main.js.map": "/airautonomo/portfolio/static/js/main.f2b9a3f7.chunk.js.map",
+    "runtime-main.js": "/airautonomo/portfolio/static/js/runtime-main.4ece032d.js",
+    "runtime-main.js.map": "/airautonomo/portfolio/static/js/runtime-main.4ece032d.js.map",
+    "static/js/2.ff4c9ae5.chunk.js": "/airautonomo/portfolio/static/js/2.ff4c9ae5.chunk.js",
+    "static/js/2.ff4c9ae5.chunk.js.map": "/airautonomo/portfolio/static/js/2.ff4c9ae5.chunk.js.map",
+    "index.html": "/airautonomo/portfolio/index.html",
+    "static/css/main.b3cf4e9c.chunk.css.map": "/airautonomo/portfolio/static/css/main.b3cf4e9c.chunk.css.map",
+    "static/js/2.ff4c9ae5.chunk.js.LICENSE.txt": "/airautonomo/portfolio/static/js/2.ff4c9ae5.chunk.js.LICENSE.txt",
+    "static/media/1.179a28a1.svg": "/airautonomo/portfolio/static/media/1.179a28a1.svg",
+    "static/media/2.ea2e3610.svg": "/airautonomo/portfolio/static/media/2.ea2e3610.svg",
+    "static/media/App.css": "/airautonomo/portfolio/static/media/photo__of__me.6707f728.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.58f75e3e.js",
-    "static/js/2.5286a06f.chunk.js",
-    "static/css/main.59bffde5.chunk.css",
-    "static/js/main.d3607626.chunk.js"
+    "static/js/runtime-main.4ece032d.js",
+    "static/js/2.ff4c9ae5.chunk.js",
+    "static/css/main.b3cf4e9c.chunk.css",
+    "static/js/main.f2b9a3f7.chunk.js"
   ]
 }
